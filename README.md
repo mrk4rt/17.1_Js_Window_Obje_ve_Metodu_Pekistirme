@@ -1,0 +1,2 @@
+# 17.1_Js_Window_Obje_ve_Metodu_Pekistirme
+Js_Window_Obje_ve_Metodu_Pekistirme
